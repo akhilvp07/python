@@ -4,7 +4,7 @@ count = int(len(sys.argv))
 if(count != 3):
     print("Usage: {0} <num1> <num2>".format(sys.argv[0]))
     exit(-1)
-    
+
 num1 = int(sys.argv[1])
 num2 = int(sys.argv[2])
 
