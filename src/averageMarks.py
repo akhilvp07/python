@@ -12,4 +12,4 @@ if(avg>=80):
 elif(avg >= 35):
     print("Eligible")
 else:
-    print("Not eligible")
+    print("Not eligible: made a change")
